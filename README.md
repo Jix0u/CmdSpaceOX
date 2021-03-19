@@ -8,5 +8,7 @@ A gesture-controlled mouse system with Azure speech input.
 Bad posture and the lack of exercise in the pandemic
 
 ## How we built it
-Using Python scripts and Mediapipe API to track hand gestures and hand location. Then used pyautogui to mouve mouse with the calculated values.
-Then use Electron and React for the App interface and Microsoft Azure for Speech Recognition.
+Used Python scripts and Mediapipe API to track hand gestures and hand location. Made customize data using the KNN-model and trained the webcam. Then used pyautogui to move mouse with the calculated position values. Used Electron and React for the App interface and Microsoft Azure for Speech Recognition.
+
+## What we learned
+Mediapipe API is a great tool! Everyone is try it out sometime.
