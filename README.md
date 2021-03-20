@@ -29,4 +29,3 @@ Mediapipe API is a great tool! Everyone should try it out sometime :D
 
 ## Credits
 - Mediapipe python solution github
-- Basic electron application by flipjerga
