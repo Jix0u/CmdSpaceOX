@@ -1,11 +1,11 @@
-# CmdSpaceOX
+# Mediapipe Testing Hand Gestures
 
 ## Overview
 A gesture-controlled mouse system with Azure speech input.
 !!!!only webcam is need!!!!!
 ![githubhandges](https://user-images.githubusercontent.com/55889031/111805355-4eecf480-88a7-11eb-9cbe-c321d441e45b.gif)
 ## Inspiration 
-As of the recent pandemic, the issue of bad posture and the lack of exercise has resurfaced as many are stuck inside and hunched over their computer. As such, we created "CmdSpaceOX' a gesture-controlled mouse system in hopes of reducing posture related pains (back, shoulder, arm, etc.) and encourage exercise even by the computer.
+As of the recent pandemic, the issue of bad posture and the lack of exercise has resurfaced as many are stuck inside and hunched over their computer. As su a gesture-controlled mouse system in hopes of reducing posture related pains (back, shoulder, arm, etc.) and encourage exercise even by the computer.
 
 ## How we built it
 - Used **Python** scripts and Google's **Mediapipe API** to track hand gestures and the relative hand location. Made customize data using the **KNN-model** and trained with machine learning
