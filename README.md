@@ -1,4 +1,4 @@
-# Mediapipe Testing Hand Gestures
+# KeySpaceOX
 
 ## Overview
 A gesture-controlled mouse system with Azure speech input.
